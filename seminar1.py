@@ -198,6 +198,7 @@ f1
 !pip install optuna
 
 # prompt: Optimize LightGBM using Optuna
+# Запускать на свой страх и риск, иначе это может идти долго, порой до суток
 
 import optuna
 from sklearn.metrics import mean_squared_error
