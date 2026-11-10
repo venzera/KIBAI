@@ -7,3 +7,6 @@ ipynb заготовки для семинаров
 
 
 Ссылка на датасет с эмбеддингами: https://drive.google.com/drive/folders/1DyPz2bhGivIiIzvlxyQhaDWZcEUVhNpO?usp=drive_link 
+
+DIABETES COLAB: https://colab.research.google.com/drive/1cTE8BGMFBslFwYNNmRzxLpQ5JTL2Xu17#scrollTo=TgPuP7mbneE6
+
