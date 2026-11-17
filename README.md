@@ -10,3 +10,6 @@ ipynb заготовки для семинаров
 
 DIABETES COLAB: https://colab.research.google.com/drive/1cTE8BGMFBslFwYNNmRzxLpQ5JTL2Xu17#scrollTo=TgPuP7mbneE6
 
+DDG COLAB: https://colab.research.google.com/drive/1BTGUiCg5eX-cz3uhHQpeVcLiKh6X9ZOn?usp=sharing
+
+
